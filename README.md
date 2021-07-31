@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devadutta Hati
 - 👀 I’m interested in Flutter and Kotlin development
-- 🌱 I’m currently learning GetX state management
+- 🌱 I’m currently learning jetpack compose
 
 <!---
 ZEUS-io83/ZEUS-io83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
